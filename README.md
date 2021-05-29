@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 >  A Mulitpurpose Discord Bot with a Music System used by 200K+ users and more than 2000 servers.
 
-Karma Bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALoneFX](https://github.com/AloneFX).  
+KDoTKenny is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [ALoneFX](https://github.com/AloneFX).  
 
 ## Categories 📑
 - [x] Music & Filter
