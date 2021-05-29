@@ -32,16 +32,6 @@ Karma has a lot of features, with **8 main categories**:
 *   👑 **Owner**: `eval`, `reload`
 
 
-* **Any Questions/Suggestions? Ask them in our Support Server**
-</br></br>
-<a href="https://dsc.gg/eye-esports"><img src="https://invidget.switchblade.xyz/NtyaM9d"/></a>
-<br><br>
-* **Community Server**
-</br></br>
-<a href="https://dsc.gg/eye-esports"><img src="https://invidget.switchblade.xyz/devs"/></a>
-<br><br>
-
-
 * Set up your **[config.json](https://github.com/DeltaCoderr/KarmaBot/blob/main/configs/config.json)** file with your respective information.
 ```
 {
